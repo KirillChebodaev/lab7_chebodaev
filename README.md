@@ -36,17 +36,17 @@
 
 \### Скриншот 1: Результат работы программы
 
-!\[Результат работы](docs/screenshot1.png)
+<img src="docs/screenshot1.png" width="600">
 
 
 
 \### Скриншот 2: XML-комментарии в коде
 
-!\[XML-комментарии](docs/screenshot2.png)
+<img src="docs/screenshot2.png" width="600">
 
 
 
 \### Скриншот 3: Среда разработки
 
-!\[Среда разработки](docs/screenshot3.png)
+<img src="docs/screenshot3.png" width="600">
 
